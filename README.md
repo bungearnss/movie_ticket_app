@@ -1,6 +1,6 @@
 # movie_ticket_purchase_app
 
-A new Flutter project.
+![Movie_ticket_app](https://user-images.githubusercontent.com/66944039/184470864-d76b9ca7-233f-4f64-be4e-0dba02675f4a.jpg)
 
 ## Getting Started
 
